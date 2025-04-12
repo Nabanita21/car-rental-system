@@ -1,4 +1,4 @@
-# nabanitasarkar
+# car-rental-system
 Car Rental System – Java Spring Boot Project
 Welcome to the Car Rental System – a full-stack backend project developed using Java 17, Spring Boot, and MySQL. This application simulates a real-world car rental platform where users can explore available vehicles, view rental packages, and book cars securely.
 
